@@ -38,6 +38,16 @@
                ReferencedContainer = "container:tracker.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "15DBD0A221F453110019E9EB"
+               BuildableName = "trackerUITests.xctest"
+               BlueprintName = "trackerUITests"
+               ReferencedContainer = "container:tracker.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
